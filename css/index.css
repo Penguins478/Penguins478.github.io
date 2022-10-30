@@ -277,7 +277,8 @@ body{
 }
 
 #inogen_logo{
-    width: 3%;
+    width: 6%;
+    margin-left: -1%;
     position: absolute;
 }
 
@@ -288,18 +289,18 @@ body{
     position: absolute;
 }
 #arc_logo{
-    margin-top: -.5%;
-    width: 3%;
+    width: 5%;
+    margin-left: -.5%;
     position: absolute;
 }
 
 #flutter_logo{
-    width: 5.8%;
-    margin-left: -1.5%;
+    width: 5%;
+    margin-left: -0.75%;
     position: absolute;
 }
 #chsr_logo{
-    width: 3%;
-    margin-left: -.6%;
+    width: 4%;
+    margin-left: -.5%;
     position: absolute;
 }
