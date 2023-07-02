@@ -1,3 +1,5 @@
-Visit it here: [ryan-kwong.com](ryan-kwong.com)
+Visit it here: [Penguins478.github.io](https://Penguins478.github.io)
 
-[Penguins478.github.io](Penguins478.github.io)
+Visit my updated website here: [ryan-kwong.com](https://ryan-kwong.com)
+
+
